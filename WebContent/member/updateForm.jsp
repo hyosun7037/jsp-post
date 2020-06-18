@@ -13,12 +13,7 @@
 	<h1>수정 페이지</h1>
 	<hr />
 </header>
-
-<nav>
-	<a href="/apple/member?cmd=loginForm">로그인</a> 
-	<a href="/apple/member?cmd=JoinForm">회원가입</a>
-</nav>
-
+<%@ include file="../include/nav.jsp" %>
 <section>
 	<form action="/apple/post?cmd=loginProc" method="post">
 		<table border="1">

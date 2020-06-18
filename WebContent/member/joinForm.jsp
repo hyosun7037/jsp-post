@@ -14,13 +14,10 @@
 	<hr />
 </header>
 
-<nav>
-	<a href="/apple/member?cmd=loginForm">로그인</a> 
-	<a href="/apple/member?cmd=JoinForm">회원가입</a>
-</nav>
+	<%@ include file="../include/nav.jsp" %>
 
 <section>
-	<form action="/apple/post?cmd=joinProc" method="post">
+	<form action="/apple/member?cmd=joinProc" method="post">
 		<table border="1">
 			<tr>
 				<th>유저네임</th>
