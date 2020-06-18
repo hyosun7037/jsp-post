@@ -5,9 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<title>Insert title here</title>
+<title>게시글 목록 페이지</title>
 </head>
 <body>
 </body>
-
+	<h1>게시글 목록 페이지</h1>
+	<hr />
 </html>

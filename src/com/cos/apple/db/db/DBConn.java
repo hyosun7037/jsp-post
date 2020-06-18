@@ -1,4 +1,4 @@
-package com.cos.apple.db;
+package com.cos.apple.db.db;
 
 import java.sql.Connection;
 
